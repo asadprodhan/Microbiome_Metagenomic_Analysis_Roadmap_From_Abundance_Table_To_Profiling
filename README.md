@@ -1,18 +1,20 @@
-<h1 align="center">Microbiome Community Analysis Roadmap: Diversity, Networks, Keystone Taxa & Functional Profiling</h1>
+<h1 align="center">Microbiome Metagenomic Analysis Roadmap: From Abundance Table To Taxonomic and Functional Profilling</h1>
 
-<h3 align="center">Asad Prodhan</h3>
+<h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup> </h3>
 
-<div align="center"><b>Department of Biological Sciences, Example University</b></div>
-<div align="center"><b>Example City, Country. <sup>*</sup>Contact: instructor@example.edu</b></div>
+<div align="center"><b> School of Biological Sciences, The University of Western Australia </b></div>
+
+<div align="center"><b> 35 Stirling Highway, Perth, WA 6009, Australia. <sup>*</sup>Correspondence: prodhan82@gmail.com </b></div>
 
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg">
-  <img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white">
+  <a href="https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/tree/main#GPL-3.0-1-ov-file"><img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg" alt="License GPL 3.0" style="display: inline-block;"></a>
+  <a href="https://orcid.org/0000-0002-1320-3486"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID" style="display: inline-block;"></a>
 </p>
 
 <br />
+
 
 ---
 
