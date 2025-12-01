@@ -1,6 +1,6 @@
 <h1 align="center">Microbiome Community Analysis Roadmap: Diversity, Networks, Keystone Taxa & Functional Profiling</h1>
 
-<h3 align="center">Instructor: Your Name Here</h3>
+<h3 align="center">Asad Prodhan</h3>
 
 <div align="center"><b>Department of Biological Sciences, Example University</b></div>
 <div align="center"><b>Example City, Country. <sup>*</sup>Contact: instructor@example.edu</b></div>
@@ -412,32 +412,3 @@ To visualise gene family distributions across treatments.
 - `HUMAnN_GeneFamilies_CleanedTable.tsv`
 
 ---
-
-# **Suggested Repository Structure**
-
-```text
-Microbiome_Tutorial_Repository/
-├── data/
-│   ├── MetaData_StudySamples.csv
-│   ├── Metagenome_CommunityProfile.biom
-│   ├── HUMAnN_Pathways_Merged.tsv
-│   ├── HUMAnN_Pathways_Stratified.tsv
-│   ├── HUMAnN_GeneFamilies_Merged.tsv
-│   └── NodeTopology_*_Keystone.csv
-├── scripts/
-│   ├── Script1_AlphaDiversity_Extraction.R
-│   ├── Script2_AlphaDiversity_StatsPlots.R
-│   ├── Script3_BetaDiversity.R
-│   ├── Script4_PhylumAbundance.R
-│   ├── Script5_GenusAbundance.R
-│   ├── Script6_CooccurrenceNetwork.R
-│   ├── Script7_KeystoneTaxaAbundanceTable.R
-│   ├── Script8_Keystone_VennAnalysis.R
-│   ├── Script9_DESeq2_WithTaxonomy.R
-│   ├── Script10_DESeq2_AllTaxa.R
-│   ├── Script11_DESeq2_Phylum.R
-│   ├── Script12_ALDEx2.R
-│   ├── Script13_HUMAnN_PathwayViz.R
-│   ├── Script14_HUMAnN_FunctionalContributors.R
-│   ├── Script15_HUMAnN_GeneFamilies.R
-└── results/
